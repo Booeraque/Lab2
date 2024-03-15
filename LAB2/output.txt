@@ -1,0 +1,27 @@
+This is the new first line in my output.txt file! 
+Student Number: s26904
+
+Original List: [5, 2, 20, 8, 9, 10]
+Original Tuple: (5, 2, 8, 1, 9)
+Original Set: {1, 2, 4, 20}
+Original Dictionary: {5: 25, 2: 4, 20: 400, 9: 81, 10: 100, 11: 121}
+
+Manipulated List: [5, 2, 20, 8, 9, 10]
+Manipulated Tuple: (5, 2, 8, 1, 9)
+Union of Set: {1, 2, 4, 19, 20}
+Intersection of Set: {1, 4, 20}
+Difference of Set: {2}
+Updated Dictionary: {5: 25, 2: 4, 20: 400, 9: 81, 10: 100, 11: 121}
+
+List to Tuple: (5, 2, 20, 8, 9, 10)
+List to Set: {2, 5, 8, 9, 10, 20}
+List to Dictionary: {5: 25, 2: 4, 20: 400, 8: 64, 9: 81, 10: 100}
+Tuple to List: [5, 2, 8, 1, 9]
+Tuple to Set: {1, 2, 5, 8, 9}
+Tuple to Dictionary: {5: 25, 2: 4, 8: 64, 1: 1, 9: 81}
+Set to List: [1, 2, 4, 20]
+Set to Tuple: (1, 2, 4, 20)
+Set to Dictionary: {1: 1, 2: 4, 4: 16, 20: 400}
+Dictionary to List: [5, 2, 20, 9, 10, 11]
+Dictionary to Tuple: (5, 2, 8, 1, 9)
+Dictionary to Set: {2, 5, 9, 10, 11, 20}
