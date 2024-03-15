@@ -1,0 +1,17 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Lab2
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision e8489ef87af39e20edc5105fa9bcdc5fefdb2581)
++++ b/README.md	(date 1710457314898)
+@@ -1,1 +1,3 @@
+-# Lab2
+\ No newline at end of file
++# Yegor Burykin
++## Student ID: s26904
++## Group Number: 13c
+\ No newline at end of file
